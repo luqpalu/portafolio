@@ -21,24 +21,6 @@ Enfoque minimalista y elegante que destaca su trabajo de diseño sin distraccion
 Puede carecer de información detallada sobre proyectos y procesos de diseño.
 
 
-[**500px** ](https://500px.com)
-
-**👍🏼;**
-500px es una comunidad de fotografía en línea que permite a los fotógrafos cargar, compartir y vender sus fotos. Ofrece una oportunidad para que los fotógrafos muestren su trabajo y lo vendan a través de la plataforma.
-
-**👎🏼;**
-La exposición y ventas pueden ser competitivas, y es importante promocionar activamente su trabajo para destacar.
-
-
-[**Saatchi Art** ](https://saatchiart.com)
-
-**👍🏼;**
-Saatchi Art es una plataforma en línea que permite a artistas de todo el mundo vender sus obras de arte, incluyendo fotografía. Proporciona una amplia exposición y opciones de venta para artistas.
-
-**👎🏼;**
- La competencia es alta, y puede ser difícil destacar entre la gran cantidad de artistas presentes en la plataforma.
-
-
 [**Felipe Pantone** ](https://felipepantone.com)
 
 **👍🏼;**
@@ -56,15 +38,28 @@ La paleta de colores única y atractiva no solo resalta sus proyectos, sino que 
 **👎🏼;**
 Algunas secciones, como la página de inicio y la sección de proyectos, podrían beneficiarse de una mayor cohesión en términos de diseño para proporcionar una experiencia más fluida y armoniosa.
 
+[**Stefan Sagmeister** ](https://sagmeister.com/)
 
-[**Fine Art America** ](https://fineartamerica.com/)
+👍🏼;
+Diseño innovador que fusiona arte y funcionalidad, atrayendo a audiencias interesadas en experiencias visuales únicas.
 
-**👍🏼;**
-Este sitio web permite a los artistas vender reproducciones de sus obras, incluyendo fotografías, en varios formatos como impresiones, lienzo, tarjetas de felicitación y más.
+👎🏼;
+La narrativa visual a veces puede eclipsar detalles prácticos, lo que podría dejar a algunos visitantes buscando más información sobre proyectos específicos.
 
-**👎🏼;**
-El sitio es una plataforma compartida para múltiples artistas, por lo que es importante promocionar su propio trabajo para atraer a los compradores.
+[**Karim Rashid** ](http://www.karimrashid.com/overview#about)
 
+👍🏼;
+Estilo audaz y vanguardista que refleja su enfoque único del diseño, capturando la atención de manera impactante.
+
+👎🏼;
+La abundancia de información y proyectos puede ser abrumadora, dificultando la focalización en elementos clave.
+
+[**David Carson** ](https://www.davidcarsondesign.com/)
+👍🏼;
+Enfoque disruptivo y expresivo en el diseño gráfico, creando experiencias visuales impactantes e inolvidables.
+
+👎🏼;
+La disposición no convencional de información puede resultar desafiante para aquellos que buscan una estructura más tradicional.
 
 * **Referentes**
 
