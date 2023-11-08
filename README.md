@@ -48,16 +48,16 @@ Diseño vibrante y moderno que refleja su estilo personal, lo que atrae a visita
 La abundancia de elementos visuales puede hacer que la navegación sea confusa y distraiga de los proyectos.
 
 
-[**Francisco López** ](https://pancholopez.cl)
+[**Valentina Soto** ](https://www.valentinasotoillanes.com/)
 
 **👍🏼;**
-Enfocado en contar historias detrás de los proyectos de diseño, permitiendo a los visitantes conectar emocionalmente con su trabajo.
+La paleta de colores única y atractiva no solo resalta sus proyectos, sino que también refleja coherencia con su marca personal, creando una experiencia visual distintiva.
 
 **👎🏼;**
-La carga de la página puede ser lenta debido a la cantidad de contenido.
+Algunas secciones, como la página de inicio y la sección de proyectos, podrían beneficiarse de una mayor cohesión en términos de diseño para proporcionar una experiencia más fluida y armoniosa.
 
 
-[**Fine Art America** ](https://fineartamerica.com)
+[**Fine Art America** ](https://fineartamerica.com/)
 
 **👍🏼;**
 Este sitio web permite a los artistas vender reproducciones de sus obras, incluyendo fotografías, en varios formatos como impresiones, lienzo, tarjetas de felicitación y más.
