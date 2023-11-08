@@ -1,3 +1,5 @@
 ### paulafolio
 # paulaluque.cl
-##texto
+
+**texto**
+Me gustan las patatas
