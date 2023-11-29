@@ -217,7 +217,7 @@
                 const data = await consulta.json();
                 var donde = document.querySelector("#trabajos");
                 data.forEach(function (t, i) {
-                    donde.innerHTML += `<article class="col"><div class="card h-100 shadow-sm ${t.soporte}"><img src="${t.fotos[0]}" class="card-img-top"><div class="card-body"><h3 class="fs-5"><a href="single.html?nro=${i}" class="link-secondary">${t.nombre}</a></h3><p>${t.abstract}</p><small>#${t.soporte}</small></div></div></article>`;
+                    donde.innerHTML += `<article class="col"><div class="card h-100 shadow-sm ${t.soporte}"><img alt="a"src="${t.fotos[0]}" class="card-img-top"><div class="card-body"><h3 class="fs-5"><a href="single.html?nro=${i}" class="link-secondary">${t.nombre}</a></h3><p>${t.abstract}</p><small>#${t.soporte}</small></div></div></article>`;
                 });
             }
             portfolio().catch((error) => console.error(error));
